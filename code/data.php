@@ -76,6 +76,7 @@ $languages['php'] = [
     '<a href="http://www.phpclasses.org/package/7700-PHP-Authorize-and-access-APIs-using-OAuth.html">oauth-api</a> from <a href="http://www.phpclasses.org/">PHP Classes</a>',
     '<a href="https://git.tuxed.net/fkooman/php-oauth2-client">Very simple OAuth 2.0 client, PHP >= 5.4</a> (Composer: <code>fkooman/oauth2-client</code>)',
     '<a href="https://github.com/ivan-novakov/php-openid-connect-client">OAuth2/OpenID Connect Client Library for PHP/Zend Framework 2</a>',
+    '<a href="https://github.com/jumbojett/OpenID-Connect-PHP">OpenID-Connect-PHP</a> from <a href="https://github.com/jumbojett">jumbojett</a>',
   ],
   'server_libraries' => [
     '<a href="https://github.com/bshaffer/oauth2-server-php">PHP OAuth2 Server</a> and <a href="https://github.com/bshaffer/oauth2-demo-php">Demo</a>',
